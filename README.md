@@ -19,4 +19,4 @@ Es una implementación de un contrato inteligente simple interactivo que permite
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/mi-proyecto-hardhat.git
+   https://github.com/juanjoA32/ProyectoFinal.git
